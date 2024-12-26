@@ -1,0 +1,292 @@
+# Website Image Requirements
+
+## Hero Section Images
+1. hero-main.jpg (1920x1080)
+Prompt: "Professional solar panel installation on a modern Florida home, aerial view, bright sunny day, palm trees in background, pristine installation, high-end residential area, crystal clear blue sky"
+
+2. hero-mobile.jpg (750x1000)
+Prompt: "Solar panels on Florida home rooftop, portrait orientation, showing installation detail, warm sunlight, professional finish, palm trees visible"
+
+3. hero-video.mp4 (1920x1080)
+Prompt: "Cinematic drone footage showing solar installation process from start to finish, focusing on professional team and quality workmanship"
+
+## Blog Post Images
+1. maintenance.jpg (800x600)
+Prompt: "Solar panel maintenance technician inspecting panels on rooftop, wearing safety gear, professional equipment, clear Florida sky"
+
+2. seasonal.jpg (800x600)
+Prompt: "Split image showing solar panels in different Florida seasons, showing resilience in both sunny and stormy conditions"
+
+3. troubleshooting.jpg (800x600)
+Prompt: "Close-up of solar panel diagnostic testing, technician using modern equipment, professional maintenance work"
+
+4. savings-chart.jpg (800x600)
+Prompt: "Professional infographic showing typical energy savings over time with solar installation in Florida climate"
+
+5. tech-advances.jpg (800x600)
+Prompt: "Modern solar technology showcase, featuring latest panel designs and smart monitoring systems"
+
+## Additional Blog Post Images
+1. hurricane-protection.jpg (800x600)
+Prompt: "Solar panels with hurricane protection systems, showing secure mounting and preparation steps"
+
+2. pool-solar.jpg (800x600)
+Prompt: "Solar pool heating system installation on Florida home, showing panels and pool integration"
+
+3. smart-integration.jpg (800x600)
+Prompt: "Smart home dashboard showing solar system integration with mobile devices"
+
+4. solar-myths.jpg (800x600)
+Prompt: "Educational infographic debunking common solar myths with clear visual examples"
+
+5. commercial-solar.jpg (1200x800)
+Prompt: "Large commercial solar installation on Florida business complex with professional finish"
+
+6. battery-storage.jpg (800x600)
+Prompt: "Modern solar battery storage system installation in Florida home"
+
+7. solar-financing.jpg (800x600)
+Prompt: "Professional infographic showing different solar financing options and comparisons"
+
+8. energy-efficiency.jpg (800x600)
+Prompt: "Home energy efficiency visualization with solar integration points highlighted"
+
+9. solar-monitoring.jpg (800x600)
+Prompt: "Modern solar monitoring system interface showing real-time performance data"
+
+10. property-value.jpg (800x600)
+Prompt: "Florida home with solar installation, featuring real estate value indicators"
+
+## Team/Staff Photos
+1. amber-johnson.jpg (400x400)
+Prompt: "Professional headshot of female solar energy expert, warm smile, business casual attire, outdoor setting with solar panels"
+
+2. david-anderson.jpg (400x400)
+Prompt: "Professional headshot of male solar consultant, confident pose, business professional attire, Florida office background"
+
+3. aaron-martinez.jpg (400x400)
+Prompt: "Professional headshot of male solar expert, friendly expression, business casual attire, solar installation visible"
+
+4. dude-williams.jpg (400x400)
+Prompt: "Professional headshot of male solar technician, welcoming smile, work uniform with company logo, outdoor setting"
+
+5. team-group.jpg (1200x800)
+Prompt: "Full team photo showing diversity, professionalism, and company culture, office/warehouse setting"
+
+## Process/Installation Images
+1. installation-process-1.jpg (800x600)
+Prompt: "Initial solar panel installation setup, equipment laid out, professional team preparing roof, safety equipment visible"
+
+2. installation-process-2.jpg (800x600)
+Prompt: "Mid-installation phase showing mounting system installation, clear detail of brackets and rails"
+
+3. installation-process-3.jpg (800x600)
+Prompt: "Final stage of solar panel installation, complete array visible, neat cable management"
+
+4. design-process.jpg (800x600)
+Prompt: "3D modeling and design process, showing computer screens with solar design software"
+
+5. permit-process.jpg (800x600)
+Prompt: "Documentation and permitting process, showing professional handling of paperwork"
+
+## Success Stories/Case Studies
+1. case-study-1.jpg (1200x800)
+Prompt: "Large Florida home with complete solar installation, beautiful architecture, visible energy savings display"
+
+2. case-study-2.jpg (1200x800)
+Prompt: "Commercial building with solar panel array, modern business park setting, Florida landscape"
+
+3. case-study-3.jpg (1200x800)
+Prompt: "Multi-family residential complex with solar installation, community setting, visible environmental impact"
+
+4. case-study-4.jpg (1200x800)
+Prompt: "Small business solar success story, showing retail location with rooftop installation"
+
+5. case-study-5.jpg (1200x800)
+Prompt: "Agricultural application of solar power, showing farm/ranch installation"
+
+## Maintenance Section
+1. maintenance-check.jpg (800x600)
+Prompt: "Detailed maintenance inspection of solar panels, technician using cleaning equipment, professional service"
+
+2. maintenance-cleaning.jpg (800x600)
+Prompt: "Solar panel cleaning process, showing before/after, professional equipment usage"
+
+3. maintenance-repair.jpg (800x600)
+Prompt: "Solar panel repair work, close-up of technical repair, professional tools"
+
+4. monitoring-system.jpg (800x600)
+Prompt: "Smart monitoring system interface, showing real-time performance data"
+
+5. maintenance-schedule.jpg (800x600)
+Prompt: "Infographic showing recommended maintenance schedule and benefits"
+
+## Trust Indicators
+1. certification-work.jpg (600x400)
+Prompt: "Team displaying professional certifications, training session in progress, professional environment"
+
+2. quality-guarantee.jpg (600x400)
+Prompt: "High-quality solar panel installation detail, showing premium materials and workmanship"
+
+3. warranty-service.jpg (600x400)
+Prompt: "Customer service representative explaining warranty details, professional office setting"
+
+4. awards-recognition.jpg (600x400)
+Prompt: "Display of company awards, certifications, and recognition from industry leaders"
+
+5. safety-standards.jpg (600x400)
+Prompt: "Demonstration of safety protocols and equipment used during installations"
+
+## Service Area Images
+1. florida-map.jpg (800x800)
+Prompt: "Stylized map of Florida showing service areas, highlighted regions, professional design"
+
+2. local-service.jpg (800x600)
+Prompt: "Local Florida neighborhood with multiple solar installations, community impact visible"
+
+3. regional-coverage.jpg (800x800)
+Prompt: "Interactive map showing service radius and coverage areas"
+
+4. community-impact.jpg (800x600)
+Prompt: "Visualization of environmental impact across Florida communities"
+
+## Product Showcase
+1. panel-types.jpg (1200x800)
+Prompt: "Display of different solar panel options, showing quality and variety"
+
+2. inverter-systems.jpg (800x600)
+Prompt: "Modern inverter technology showcase with detailed specifications"
+
+3. battery-storage.jpg (800x600)
+Prompt: "Home battery storage systems, professional installation example"
+
+4. smart-technology.jpg (800x600)
+Prompt: "Smart home integration with solar systems, showing mobile app interface"
+
+## Solar Services Images
+1. services-overview.jpg (1920x1080)
+Prompt: "Professional montage showing various solar services: cleaning, maintenance, repair, and inspection, with Florida sunshine and modern equipment"
+
+2. panel-cleaning.jpg (800x600)
+Prompt: "Professional technician cleaning solar panels with specialized equipment, showing before/after results, clear Florida sky background"
+
+3. pool-solar.jpg (800x600)
+Prompt: "Pool solar heating system maintenance, showing technician working on roof-mounted solar collectors, beautiful pool visible below"
+
+4. pv-repair.jpg (800x600)
+Prompt: "Solar technician performing detailed repair work on PV system, professional tools and safety equipment visible"
+
+5. system-inspection.jpg (800x600)
+Prompt: "Technician performing comprehensive solar system inspection, using modern diagnostic tools and thermal imaging equipment"
+
+## Process Icons/Graphics
+1. inspection-icon.jpg (200x200)
+Prompt: "Clean, modern icon representing solar system inspection, professional design with '01' numbering"
+
+2. maintenance-icon.jpg (200x200)
+Prompt: "Professional icon showing maintenance and cleaning process, '02' numbering included"
+
+3. report-icon.jpg (200x200)
+Prompt: "Modern icon representing service reporting and recommendations, '03' numbering visible"
+
+## Call-to-Action Images
+1. schedule-service.jpg (1200x400)
+Prompt: "Welcoming banner image showing professional solar service team ready to help, Florida home with solar installation in background"
+
+2. service-benefits.jpg (800x600)
+Prompt: "Infographic showing key benefits of regular solar maintenance, including efficiency gains and system longevity"
+
+3. emergency-service.jpg (800x600)
+Prompt: "Professional response team with service vehicle, ready for emergency solar repairs"
+
+## Additional Requirements
+- All images should maintain consistent branding and color scheme
+- Testimonial images should look authentic and relatable
+- Before/After images should be perfectly aligned for comparison
+- Educational images should be clear and easy to understand
+- Interactive feature backgrounds should be subtle and not distract from UI elements
+- Professional quality, high resolution (minimum 150dpi for web, 300dpi for print materials)
+- Natural lighting preferred
+- Include diversity in people shown
+- Showcase Florida-specific architecture and environment
+- Maintain consistent style across all images
+- Include proper safety equipment in all installation/maintenance shots
+- Weather-appropriate clothing for Florida climate
+- Modern equipment and tools visible in technical shots
+- Drone footage must be FAA compliant
+- Include ADA compliance considerations in image descriptions
+
+## Image Formats
+- Save all images in .jpg, .webp, and .png formats
+- Create multiple sizes for responsive design (desktop, tablet, mobile)
+- Maintain aspect ratios when resizing
+- Optimize for web performance
+- Include retina display versions (2x and 3x)
+- Provide both light and dark mode versions where applicable
+- Include thumbnails for gallery views
+- Compress files for optimal loading speed while maintaining quality
+
+## Testimonial Images
+1. testimonial-john.jpg (400x400)
+Prompt: "Professional headshot of satisfied customer John, middle-aged man, standing in front of his solar-powered home, genuine smile"
+
+2. testimonial-sarah.jpg (400x400)
+Prompt: "Authentic portrait of customer Sarah, business owner, in front of her commercial building with visible solar installation"
+
+3. testimonial-rodriguez.jpg (400x400)
+Prompt: "Natural photo of the Rodriguez family outside their solar-powered home, showing multi-generational family satisfaction"
+
+4. testimonial-business.jpg (400x400)
+Prompt: "Professional photo of business owner in front of their warehouse with large solar installation, showing commercial success"
+
+5. testimonial-community.jpg (800x600)
+Prompt: "Group photo of satisfied neighborhood customers, showing community adoption of solar power"
+
+## Before/After Gallery
+1. before-after-residential.jpg (1200x600)
+Prompt: "Split image showing home before and after solar installation, dramatic transformation visible"
+
+2. before-after-commercial.jpg (1200x600)
+Prompt: "Commercial building before and after solar implementation, showing improved property value"
+
+3. before-after-pool.jpg (1200x600)
+Prompt: "Pool heating system before and after solar installation, showing improved efficiency"
+
+4. before-after-bills.jpg (800x600)
+Prompt: "Comparison of energy bills before and after solar installation, showing significant savings"
+
+## Interactive Features
+1. savings-calculator-bg.jpg (1200x800)
+Prompt: "Professional background for savings calculator, showing Florida home with solar panels and energy monitoring display"
+
+2. virtual-consultation-bg.jpg (1200x800)
+Prompt: "Welcoming background for virtual consultation feature, showing solar expert in professional setting"
+
+3. financing-options-bg.jpg (1200x800)
+Prompt: "Professional background for financing section, showing investment and savings imagery"
+
+## Educational Content
+1. solar-101-header.jpg (1600x900)
+Prompt: "Educational header image showing solar basics, with labeled components and professional design"
+
+2. how-solar-works.jpg (1200x800)
+Prompt: "Infographic showing how solar power works, from sunlight to home power, Florida-specific"
+
+3. solar-benefits-diagram.jpg (1200x800)
+Prompt: "Visual representation of solar benefits: environmental, financial, and property value improvements"
+
+## Service Pages Images
+1. pv-repair-hero.jpg (1920x600)
+Prompt: "Professional solar technician performing repairs on rooftop solar installation, showing expertise and safety equipment, Florida home setting"
+
+2. repair-process-bg.jpg (1200x800)
+Prompt: "Montage of solar repair process steps, from diagnosis to completion, professional team at work"
+
+3. diagnostic-tools.jpg (800x600)
+Prompt: "Advanced diagnostic equipment being used to test solar panel performance, clear technical detail"
+
+4. repair-team.jpg (800x600)
+Prompt: "Professional repair team with service vehicle and equipment, ready for emergency repairs"
+
+5. quality-parts.jpg (800x600)
+Prompt: "High-quality solar replacement parts and components, professional arrangement showing attention to detail"
