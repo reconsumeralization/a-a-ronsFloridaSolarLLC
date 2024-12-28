@@ -1,0 +1,67 @@
+@layer components {
+  /* Layout utilities */
+  .flex-center {
+    @apply flex items-center justify-center;
+  }
+
+  .flex-between {
+    @apply flex items-center justify-between;
+  }
+
+  .grid-center {
+    @apply grid place-items-center;
+  }
+
+  /* Typography utilities */
+  .h1 {
+    @apply scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl;
+  }
+
+  .h2 {
+    @apply scroll-m-20 pb-2 text-3xl font-semibold tracking-tight first:mt-0;
+  }
+
+  .h3 {
+    @apply scroll-m-20 text-2xl font-semibold tracking-tight;
+  }
+
+  .h4 {
+    @apply scroll-m-20 text-xl font-semibold tracking-tight;
+  }
+
+  .p {
+    @apply leading-7 [&:not(:first-child)]:mt-6;
+  }
+
+  /* Interactive elements */
+  .link {
+    @apply text-primary underline-offset-4 hover:underline;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground ring-offset-background transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center rounded-md bg-secondary px-4 py-2 text-sm font-medium text-secondary-foreground ring-offset-background transition-colors hover:bg-secondary/80 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50;
+  }
+
+  /* Card styles */
+  .card {
+    @apply rounded-lg border bg-card p-4 text-card-foreground shadow-sm;
+  }
+
+  .card-hover {
+    @apply transition-all duration-200 hover:shadow-md hover:scale-[1.02];
+  }
+
+  /* Input styles */
+  .input {
+    @apply flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+
+  /* Container styles */
+  .container-custom {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+}

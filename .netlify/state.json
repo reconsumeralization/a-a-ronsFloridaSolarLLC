@@ -1,0 +1,20 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Rockledge",
+			"country": {
+				"code": "US",
+				"name": "United States"
+			},
+			"subdivision": {
+				"code": "FL",
+				"name": "Florida"
+			},
+			"timezone": "America/New_York",
+			"latitude": 28.3159,
+			"longitude": -80.7292,
+			"postalCode": "32955"
+		},
+		"timestamp": 1735418673536
+	}
+}

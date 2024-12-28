@@ -1,0 +1,35 @@
+[build]
+  command = "pnpm run build"
+  publish = ".next"
+  functions = "netlify/functions"
+
+[build.environment]
+  NODE_VERSION = "18.x"
+  NEXT_TELEMETRY_DISABLED = "1"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+
+[functions]
+  node_bundler = "esbuild"
+  external_node_modules = ["@netlify/functions"]
+
+[dev]
+  framework = "next"
+  targetPort = 3000
+
+# Enable forms processing
+[build.processing]
+  skip_processing = false
+
+[build.processing.html]
+  pretty_urls = true
