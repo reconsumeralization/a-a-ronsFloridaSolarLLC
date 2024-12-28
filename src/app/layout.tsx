@@ -1,5 +1,6 @@
 import './globals.css';
 
+import { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 
 import { ThemeProvider } from '@/contexts/theme-context';
@@ -10,7 +11,7 @@ const inter = Inter({
   variable: "--font-inter",
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "A-A-RON's Florida Solar LLC",
   description: "Professional solar solutions for Florida homes and businesses",
   keywords: [
@@ -28,9 +29,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={inter.variable}>
+    <html lang="en" suppressHydrationWarning className={inter.variable}>
       <body className="min-h-screen bg-background font-sans antialiased">
-        <ThemeProvider defaultTheme="system" storageKey="theme">
+        <ThemeProvider>
           {children}
         </ThemeProvider>
       </body>

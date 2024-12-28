@@ -1,3 +1,5 @@
+"use client";
+
 import {
   createContext,
   useContext,
@@ -28,11 +30,14 @@ const ThemeProviderContext = createContext<ThemeProviderState>(initialState);
 export function ThemeProvider({
   children,
   defaultTheme = "system",
-  storageKey = "ui-theme",
+  storageKey = "theme",
   ...props
 }: ThemeProviderProps) {
   const [theme, setTheme] = useState<Theme>(
-    () => (localStorage.getItem(storageKey) as Theme) || defaultTheme,
+    () =>
+      (typeof window !== "undefined"
+        ? (localStorage.getItem(storageKey) as Theme)
+        : defaultTheme) || defaultTheme,
   );
 
   useEffect(() => {
